@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=TedarikciModel
+comment0.text=\n\ Tedarik\u00E7i\ bilgileri\ i\u00E7in.\n
+comment1.params=
+comment1.target=TedarikciModel()
+comment10.params=p_DeleteKomutu
+comment10.target=boolean\ dbVeriSil(java.lang.String)
+comment11.params=p_UpdateKomutu
+comment11.target=boolean\ dbVeriGuncelle(java.lang.String)
+comment2.params=p_idTedarikci\ p_tedarikciAdi
+comment2.target=TedarikciModel(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getIDTedarikci()
+comment4.params=p_idTedarikci
+comment4.target=void\ setIDTedarikci(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getTedarikciAdi()
+comment6.params=p_tedarikciAdi
+comment6.target=void\ setTedarikciAdi(java.lang.String)
+comment7.params=
+comment7.target=void\ dbConnection()
+comment8.params=p_SelectKomutu
+comment8.target=TedarikciModel\ dbVeriSorgula(java.lang.String)
+comment9.params=p_InsertKomutu
+comment9.target=boolean\ dbVeriEkle(java.lang.String)
+numComments=12

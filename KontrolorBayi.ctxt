@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=KontrolorBayi
+comment0.text=\n\ Write\ a\ description\ of\ class\ KontrolorBayi\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=KontrolorBayi()
+comment2.params=p_idSube
+comment2.target=void\ BayiBilgileriKayit(java.lang.String)
+numComments=3

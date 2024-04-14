@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=KontrolorTedarikci
+comment0.text=\n\ Write\ a\ description\ of\ class\ KontrolorTedarikci\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=KontrolorTedarikci()
+comment2.params=p_idTedarikci\ p_tedarikciAdi
+comment2.target=void\ TedarikciBilgileriKayit(java.lang.String,\ java.lang.String)
+numComments=3

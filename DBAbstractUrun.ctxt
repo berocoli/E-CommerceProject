@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=DBAbstractUrun
+comment0.text=\n\ Write\ a\ description\ of\ class\ DBAbstractUrun\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ dbConnection()
+comment2.params=p_SelectKomutu
+comment2.target=java.lang.Object\ dbVeriSorgula(java.lang.String)
+comment3.params=p_InsertKomutu
+comment3.target=boolean\ dbVeriEkle(java.lang.String)
+comment4.params=p_DeleteKomutu
+comment4.target=boolean\ dbVeriSil(java.lang.String)
+comment5.params=p_UpdateKomutu
+comment5.target=boolean\ dbVeriGuncelle(java.lang.String)
+numComments=6

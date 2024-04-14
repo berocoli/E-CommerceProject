@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=BayiBilgileriGUI
+comment1.params=p_kontrolor
+comment1.target=BayiBilgileriGUI(KontrolorBayi)
+comment2.params=
+comment2.target=BayiBilgileriGUI()
+comment3.params=p_Pencere
+comment3.target=void\ pencereHazirla(javax.swing.JFrame)
+comment4.params=p_Pencere
+comment4.target=void\ panelHazirla(javax.swing.JFrame)
+numComments=5

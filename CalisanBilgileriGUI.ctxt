@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CalisanBilgileriGUI
+comment1.params=p_kontrolor
+comment1.target=CalisanBilgileriGUI(KontrolorCalisan)
+comment2.params=
+comment2.target=CalisanBilgileriGUI()
+comment3.params=p_Pencere
+comment3.target=void\ pencereHazirla(javax.swing.JFrame)
+comment4.params=p_Pencere
+comment4.target=void\ menuBarHazirla(javax.swing.JFrame)
+comment5.params=p_Pencere
+comment5.target=void\ panelHazirla(javax.swing.JFrame)
+numComments=6

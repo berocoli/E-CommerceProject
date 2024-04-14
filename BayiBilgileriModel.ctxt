@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=BayiBilgileriModel
+comment0.text=\n\ Bayi\ bilgileri\ i\u00E7in.\n
+comment1.params=
+comment1.target=BayiBilgileriModel()
+comment2.params=p_idSube
+comment2.target=BayiBilgileriModel(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getIDSube()
+comment4.params=p_idSube
+comment4.target=void\ setIDSube(java.lang.String)
+comment5.params=
+comment5.target=void\ dbConnection()
+comment6.params=p_SelectKomutu
+comment6.target=BayiBilgileriModel\ dbVeriSorgula(java.lang.String)
+comment7.params=p_InsertKomutu
+comment7.target=boolean\ dbVeriEkle(java.lang.String)
+comment8.params=p_DeleteKomutu
+comment8.target=boolean\ dbVeriSil(java.lang.String)
+comment9.params=p_UpdateKomutu
+comment9.target=boolean\ dbVeriGuncelle(java.lang.String)
+numComments=10

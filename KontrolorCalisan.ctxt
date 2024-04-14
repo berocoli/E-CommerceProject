@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=KontrolorCalisan
+comment0.text=\n\ Write\ a\ description\ of\ class\ KontrolorCalisan\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=KontrolorCalisan()
+comment2.params=p_calisanNo\ p_sifre\ p_kullaniciDurumu
+comment2.target=void\ calisanBilgileriKayit(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=3
